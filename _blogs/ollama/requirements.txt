@@ -14,3 +14,4 @@ trl
 union
 flytekitplugins-kfpytorch
 flytekitplugins-inference>=1.13.6b1
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
