@@ -5,3 +5,5 @@ flytekitplugins-spark>=1.13.1a2
 # comment
 plotly
 flytekit>=1.13.1a2
+azure-core>=1.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
