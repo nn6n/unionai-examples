@@ -1,2 +1,4 @@
 flytekitplugins-inference
 flytekitplugins-wandb
+azure-core>=1.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
+jaraco.context>=6.1.0 # not directly required, pinned by Snyk to avoid a vulnerability
